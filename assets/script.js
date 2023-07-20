@@ -49,3 +49,4 @@ function SlidePrecedent() {
 	bannerText.innerHTML = slides[slideActuel].tagLine;
 	updateActiveDot();
 }
+
